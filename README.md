@@ -1,7 +1,7 @@
 # fingerprint-minutiae
 MATLAB script to obtain the fingerprint minutiae.
 
-This is a code from an Image Processing course and it was uploaded from local repo.
+This is a code from an Image Processing course and it was uploaded from local repo. (2013)
 
 Authors:
 @emu0
